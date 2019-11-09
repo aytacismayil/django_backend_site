@@ -1,0 +1,19 @@
+
+.media-body{
+    border: 1px solid blanchedalmond;
+}
+.on{
+    border:1px solid cornflowerblue;
+    background-color:rgb(233, 215, 250);
+}
+.col-md-4{
+    background-color: rgb(228, 215, 250);
+}
+.col-md-8{
+    background-color:rgb(255, 249, 241) ;
+}
+.rounded-circle .account-img{
+    width: 100px;
+    height: 100px;
+
+}
